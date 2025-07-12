@@ -80,7 +80,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
 
     gifs = [
-        # "tennaDancing/Tenna1.gif",
+        "tennaDancing/Tenna1.gif",
         "tennaDancing/Tenna2.gif"
     ]
     musics = [
